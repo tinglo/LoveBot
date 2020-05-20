@@ -18,7 +18,7 @@ gensim==3.2.0
 google==2.0.1
 gunicorn==19.7.1
 html5lib==0.9999999
-httplib2==0.10.3
+httplib2==0.18.0
 idna==2.6
 itsdangerous==0.24
 jieba==0.39
